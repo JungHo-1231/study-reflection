@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="part4.DynamicProxyWithoutInterface.BookTestService" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-06T05:59:15" hostname="bagjeonghoui-Macmini.local" time="0.145">
+  <properties/>
+  <testcase name="di()" classname="part4.DynamicProxyWithoutInterface.BookTestService" time="0.145"/>
+  <system-out><![CDATA[before rent some common logic
+rent:  spring
+after rent some common logic
+return: spring
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

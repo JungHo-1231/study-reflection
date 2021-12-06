@@ -1,0 +1,4 @@
+before rent some common logic
+rent:  spring
+after rent some common logic
+return: spring
